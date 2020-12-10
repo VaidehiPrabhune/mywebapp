@@ -1,0 +1,13 @@
+/*
+ * main.c
+ *
+ *  Created on: 15-Feb-2020
+ *      Author: sunbeam
+ */
+#include<stdlib.h>
+int main(void)
+{
+	printf("hello");
+	return 0;
+}
+
